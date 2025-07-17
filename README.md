@@ -122,4 +122,4 @@ Younger customers or those with recently opened accounts may have different risk
 
 Here are some resources to help you 
 
-Click to download file → [Imputation Guide]
+Click to download file → [Imputation Guide](https://github.com/mroyalreddy07/TATA-GenAI-Powered-Data-Analytics/blob/main/Imputation_Guide_Handout.docx)
