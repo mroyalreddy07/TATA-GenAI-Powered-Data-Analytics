@@ -167,7 +167,7 @@ With a cleaned dataset, your next goal is to uncover patterns and key risk facto
       * A summary of missing values and how they were handled.
       * Risk indicators that may impact delinquency predictions.
 
-Uploaded your [EDA summary report](https://github.com/mroyalreddy07/TATA-GenAI-Powered-Data-Analytics/blob/main/EDA_Example_Answer.docx)
+Uploaded [EDA summary report](https://github.com/mroyalreddy07/TATA-GenAI-Powered-Data-Analytics/blob/main/EDA_Example_Answer.docx)
 
 # Here are some resources to help you
 
@@ -217,9 +217,118 @@ Using the provided template, submit a structured plan that includes:
 * Your model justification — why you chose it and how it fits the task.
 * Your evaluation strategy, explaining how you would assess accuracy and fairness.
 
-Deliverable: Submit a Word or PDF file of your plan below.
+Uploaded [Model Plan](https://github.com/mroyalreddy07/TATA-GenAI-Powered-Data-Analytics/blob/main/Task_2_Model_Plan_Example_Answer.docx)
 
 # Here are some resources to help you
 
 Click to download file's 👇
 [Task 2_ModelPlan_Template](https://github.com/mroyalreddy07/TATA-GenAI-Powered-Data-Analytics/blob/main/Task%202_ModelPlan_Template.docx)
+
+
+# Task 3: Business report and data storytelling for collections strategy
+
+**Step 1: Summary of predictive insights**
+
+Use insights from your EDA (Task 1) and the structured predictive model framework (Task 2) to explain: 
+
+* What key customer segments are at high risk of delinquency
+* Which variables most strongly influence delinquency
+
+Refer to the Dataset and Dataset Description Guide (from Task 1) to support your insights with relevant examples or field references.
+
+Prompts to try:
+
+Summarize top predictors of customer delinquency based on dataset analysis.
+Identify customer segments with the highest delinquency risk and explain why.
+**Step 2: Recommendation framework**
+
+Choose one key insight and turn it into a SMART business recommendation. Think through:
+
+* What action the business could take based on this insight
+* What action would be most effective, feasible, and aligned with Geldium’s goals?
+* How you would explain the recommendation to stakeholders
+
+Use the SMART approach to shape your recommendation and prepare a short rationale as to why it’s the right fit. You can use GenAI to help structure your ideas.
+
+Prompts to try:
+
+Turn this insight — 'High credit utilization increases delinquency' — into a SMART business recommendation.
+Draft an executive summary explaining why this recommendation will reduce delinquency and align with business objectives.
+Action: Write one SMART goal and a 1–2 sentence explanation for stakeholders.
+
+**Step 3: Ethical and responsible AI considerations**
+Outline a brief ethics section, covering:
+
+* Any fairness or bias concerns your model or recommendation might raise
+* How you would explain the model’s predictions to non-technical stakeholders
+* How your approach promotes responsible and transparent AI use
+
+Prompts to try:
+
+* List two fairness risks for a financial risk prediction model and suggest mitigation strategies.
+* How would you explain AI model predictions in plain language to non-technical stakeholders?
+* Action: List two fairness risks and how you would mitigate them.
+
+**Step 4:  Submit your report**
+ 
+Use the report template provided to guide formatting. Write in plain, professional language, using short headings and concise explanations. Your report should be:
+
+* Written in plain, professional language
+* Organized into clearly labeled sections
+* No more than two pages in length
+* Deliverable: Upload your completed two-page report as a Word or PDF file. Use the provided report template to guide layout and organization.
+
+Upload your two-page [business report](https://github.com/mroyalreddy07/TATA-GenAI-Powered-Data-Analytics/blob/main/Task%203_Example_Business_Summary_Report.docx)
+
+
+# Task 4: Implementing an AI-driven collections strategy
+
+Time to translate your recommendations into a high-level concept for an autonomous, responsible AI-powered collections system. You’ll present this as a PowerPoint deck, simulating a real executive briefing.
+
+In this task, you’ll create a **PowerPoint** that outlines your proposed AI-powered collections system. This isn’t a technical system architecture — it’s a high-level strategy describing:
+
+* How the system would work
+* What ethical and regulatory guardrails it needs
+* How its success would be measured
+
+# Step 1: Build Your PowerPoint Outline
+Before diving into the details, start by planning your deck. Your PowerPoint should include the following slides:
+
+* Slide 1-2: How the system works (inputs, decision logic, actions, learning loop)
+* Slide 3: Role of agentic AI (autonomous vs. human-in-the-loop activities)
+* Slide 4: Responsible AI guardrails (fairness, explainability, compliance)
+* Slide 5: Expected business impact (quantitative and qualitative outcomes)
+
+Use this outline to organize your ideas before building each individual slide. Feel free to include additional slides as needed to convey your ideas effectively!
+
+# Step 2: Build Your Slides
+
+With the overall structure of your PowerPoint in place, it's time to start building out the individual slides. We've also included a PowerPoint template in the resources below for you to use to build out your presentation. Each slide includes built-in guidance in the slides and notes. Feel free to add additional slides or adapt the structure to suit your approach.
+
+**Slide 1-2. Describe how the system will work**
+Describe the overall system workflow using simple bullet points or diagrams.
+
+**Action:**  Create a simple 4-part list or diagram showing the flow from customer data to decision-making to action to learning.
+
+**Slide 3. Role of Agentic AI**
+Explain which parts of the system will operate autonomously and which require human oversight. 
+
+**Action:**  Create a table with two columns ("Autonomous" vs. "Human Oversight") and list examples for each.
+
+**Slide 4: Responsible AI Guardrails**
+
+List key safeguards you would build into the system to ensure it operates fairly and responsibly.
+
+**Action:**  Create a 3–4 bullet list of responsible AI guardrails you will build into the system.
+
+**Slide 5. Expected Business Impact**
+
+Explain how your proposed system would benefit Geldium’s collections strategy. Consider both quantitative outcomes (e.g., reduced delinquency, cost savings) and qualitative results (e.g., better customer experience, increased fairness, scalability).
+
+Action:  Create two lists — one for business KPIs, one for customer outcomes.
+
+# Step 3: Submit your slide deck.
+
+Prepare and submit your final slide deck below.
+
+Uploaded [slide deck](https://github.com/mroyalreddy07/TATA-GenAI-Powered-Data-Analytics/blob/main/Task%204_Example_answer_pptx.pptx)
