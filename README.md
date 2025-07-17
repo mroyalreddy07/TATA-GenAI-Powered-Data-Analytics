@@ -175,7 +175,7 @@ Click to download file's 👇
 
 [Dataset Description Guid](https://github.com/mroyalreddy07/TATA-GenAI-Powered-Data-Analytics/blob/main/Updated_Dataset_Description_Guide.pdf) 
 
-[EDA_SummaryReport_Template](https://github.com/mroyalreddy07/TATA-GenAI-Powered-Data-Analytics/blob/main/EDA_SummaryReport_Template.docx)
+[EDA_SummaryReport_Template](https://github.com/mroyalreddy07/TATA-GenAI-Powered-Data-Analytics/blob/main/Task%201%20EDA_SummaryReport_Template.docx)
 
 # Task 2: Predicting delinquency with AI
 
